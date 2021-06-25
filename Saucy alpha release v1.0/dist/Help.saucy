@@ -1,0 +1,11 @@
+-?		this displays all of your commands
+-blockedlist	this displays all of the words you can't search for
+-adminpanel	this command is only for admins (DO NOT USE)
+-exit		this closes saucy
+-addlibrary	this makes a new file to store your sauce codes
+-addsauce	adds sauce to a library of your choosing
+-showsauce	this shows all of the codes in a certain library
+-opensauce	this opens a sauce of your choosing in your browser
+-clearlibrary	this clears the codes from a library of your choosing
+-randomsauce	this will open a completely random sauce code in the browser 
+-search		this will allow you to search for something on nhentai
